@@ -50,7 +50,7 @@ Clone the repository or download the files.
 
 ```bash
 git clone https://github.com/Omar-eng-sys/Dice-Game.git
-./index.html
+cd Dice-Game
 ```
 
 Open the **index.html** file in your favorite web browser.  
