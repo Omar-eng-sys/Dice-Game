@@ -2,11 +2,10 @@
 
 A simple and interactive 2-player dice game where the winner is declared upon refreshing the page. This project is a classic web development challenge built with **HTML**, **CSS**, and **vanilla JavaScript**.
 
-<div align="center">
-  <img src="./screenshots/player1wins.png" alt="Game Screenshot when player 1 wins " width="600"/>
-  <img src="./screenshots/player2wins.png" alt="Game Screenshot when player 2 wins " width="600"/>
-  <img src="./screenshots/drawn.png" alt="Game Screenshot" width="600"/>
-</div>
+| Player 1 Wins | Player 2 Wins | Draw |
+|---------------|---------------|------|
+| <img src="./screenshots/player1wins.png" width="250"/> | <img src="./screenshots/player2wins.png" width="250"/> | <img src="./screenshots/drawn.png" width="250"/> |
+
 
 ---
 
