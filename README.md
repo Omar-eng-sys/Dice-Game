@@ -50,8 +50,8 @@ dice-game-challenge/
 Clone the repository or download the files.
 
 ```bash
-git clone <https://github.com/Omar-eng-sys/Dice-Game.git>
-cd dice-game-challenge
+git clone https://github.com/Omar-eng-sys/Dice-Game.git
+./index.html
 ```
 
 Open the **index.html** file in your favorite web browser.  
@@ -72,6 +72,4 @@ Refresh the page to roll the dice and see the winner!
 
 - 👨‍💻 Development & Logic: [Eng Omar Nasser]  
 - 🎓 Core Project Idea: Based on a challenge from **The App Brewery**.  
-- 🛠 Tools Used: HTML5, CSS3, JavaScript.  
-- Core Project Idea: Based on a challenge from The App Brewery.
 - 🛠 Tools Used: HTML5, CSS3, JavaScript.
