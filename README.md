@@ -42,32 +42,36 @@ dice-game-challenge/
 └── README.md             # You're here!
 
 ```
+
 ---
 
 ## 🛠 How to Use
 
-1.  Clone the repository or download the files.
-    ```bash
-    git clone https://github.com/Omar-eng-sys/Dice-Game.git
-    cd dice-game-challenge
-    ```
+Clone the repository or download the files.
 
-2.  Open the `index.html` file in your favorite web browser.
+```bash
+git clone <https://github.com/Omar-eng-sys/Dice-Game.git>
+cd dice-game-challenge
+```
 
-3.  **Refresh the page** to roll the dice and see the winner!
+Open the **index.html** file in your favorite web browser.  
+
+Refresh the page to roll the dice and see the winner!
 
 ---
 
 ## 📌 Future Improvements
 
-- [ ] Add a "Roll the Dice" button instead of relying on page refresh.
-- [ ] Implement animations for the dice roll.
-- [ ] Add a score counter to track wins for each player.
+- [ ] Add a "Roll the Dice" button instead of relying on page refresh.  
+- [ ] Implement animations for the dice roll.  
+- [ ] Add a score counter to track wins for each player.  
 
 ---
 
 ## 🙌 Credits
 
-- 👨‍💻 Development & Logic: [Eng Omar Nasser]
-- 🎓 Core Project Idea: Based on a challenge from The App Brewery.
+- 👨‍💻 Development & Logic: [Eng Omar Nasser]  
+- 🎓 Core Project Idea: Based on a challenge from **The App Brewery**.  
+- 🛠 Tools Used: HTML5, CSS3, JavaScript.  
+- Core Project Idea: Based on a challenge from The App Brewery.
 - 🛠 Tools Used: HTML5, CSS3, JavaScript.
